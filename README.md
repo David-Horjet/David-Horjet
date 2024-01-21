@@ -12,7 +12,7 @@
 - 💬 How to reach me :
     ##### 📧 [davidhorjet@gmail.com](mailto:davidhorjet@gmail.com)  
     ##### 🌏 [https://horjet.netlify.app](https://horjet.netlify.app)
-    ##### 📞 [08028187950](tel:+2348028187950)
+    ##### 📞 [+2349134219219](tel:+2349134219219)
 - ⚡ I'm looking forward to venturing into web 3
 
 ## Languages and Tools
