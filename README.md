@@ -18,7 +18,7 @@
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,unity,mongodb,git,css,blender,arduino,c,express,firebase,figma,git,github,heroku,js,postman,cs,docker,aws,cpp," />
+    <img src="https://skillicons.dev/icons?i=react,redux,ts,unity,mongodb,git,css,blender,arduino,c,express,firebase,figma,git,github,heroku,js,postman,cs,docker,aws,cpp,supabase" />
   </a>
 </p>
 
