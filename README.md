@@ -1,37 +1,80 @@
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm David Horjet</h2>
+<h2 align="center">Hey there 👋, I'm David Horjet</h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;Back+End+Developer;Open%20Source&center=true&width=640&height=55"></a>
-</p> 
-
-![Profile views](https://gpvc.arturio.dev/David-Horjet)  
-
-- 🚧 Full Stack MERN Developer
-- ❤️ As much as I can, I enjoy contributing to **Open Source**
-- 👯 I’m looking to collaborate more on **projects**
-- 💬 How to reach me :
-    ##### 📧 [davidhorjet@gmail.com](mailto:davidhorjet@gmail.com)  
-    ##### 🌏 [https://horjet.netlify.app](https://horjet.netlify.app)
-    ##### 📞 [+2349134219219](tel:+2349134219219)
-- ⚡ I'm looking forward to venturing into web 3
-
-## Languages and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,unity,mongodb,git,css,blender,arduino,c,express,firebase,figma,git,github,heroku,js,postman,cs,docker,aws,cpp,supabase,rust.nextjs" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Solana+Smart+Contract+Engineer;Hackathon+Champion+%7C+DeFi+Native;Always+Shipping+Innovative+Ideas...&center=true&width=800&height=45" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=David-Horjet&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
-## Github Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=David-Horjet&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
-## Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=David-Horjet&theme=onedark)
-## My Stats:
-![David-Horjet's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Horjet&theme=tokyonight&show_icons=true)
-## Most Used Languages
- <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Horjet&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=7&bg_color=000"/>
+---
+
+## 🚀 About Me
+
+- 👨🏾‍💻 Full Stack Developer (Next.js, Node.js, TypeScript)
+- ⚙️ Smart Contract Engineer (Solana + Rust via Anchor)
+- 💡 Founder of [Swiv](https://swiv.xyz) – A real-time perpetual DEX
+- 🛠 Currently building: **DeFi infrastructure**, **automated trading models**, and **AI agents**
+- 📚 Exploring advanced topics in zero-knowledge, rollups, and Web3 protocols
+- 🤝 Open to collabs, product partnerships, and good vibes
+
+---
+
+## 🌍 Connect With Me
+
+- 📧 Email: [davidhorjet@gmail.com](mailto:davidhorjet@gmail.com)  
+- 🌐 Portfolio: [horjet.netlify.app](https://horjet.netlify.app)  
+- 🐦 Twitter: [@david_horjet](https://x.com/david_horjet)  
+- 📱 Phone: [+2349134219219](tel:+2349134219219)
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,react,rust,solidity,nodejs,express,mongodb,postgres,prisma,docker,vercel,git,github,figma,linux,vscode,py,cs,cpp,firebase,redux,aws,heroku,unity" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=David-Horjet&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
+### 🧠 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Horjet&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=8&bg_color=000000" width="400"/>
+
+### 🧩 Overall Stats
+![David-Horjet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=David-Horjet&theme=tokyonight&show_icons=true&count_private=true)
+
+---
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=David-Horjet&theme=gruvbox)
+
+---
+
+## 📈 Activity Graph
+[![David's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=David-Horjet&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🔮 Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🤣 Just for Fun
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
+---
+
 <!---
-David-Horjet/David-Horjet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+David-Horjet/David-Horjet is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
