@@ -26,7 +26,7 @@
 ## 🌍 Connect With Me
 
 - 📧 Email: [davidhorjet@gmail.com](mailto:davidhorjet@gmail.com)  
-- 🌐 Portfolio: [horjet.netlify.app](https://horjet.netlify.app)  
+- 🌐 Portfolio: [horjet.com](https://horjet.com)  
 - 🐦 Twitter: [@david_horjet](https://x.com/david_horjet)  
 - 📱 Phone: [+2349134219219](tel:+2349134219219)
 
