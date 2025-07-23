@@ -16,7 +16,7 @@
 
 - 👨🏾‍💻 Full Stack Developer (Next.js, Node.js, TypeScript)
 - ⚙️ Smart Contract Engineer (Solana + Rust via Anchor)
-- 💡 Founder of [Swiv](https://swiv.xyz) – A real-time perpetual DEX
+- 💡 Building [Swiv](https://swiv.xyz) – A real-time perpetual DEX
 - 🛠 Currently building: **DeFi infrastructure**, **automated trading models**, and **AI agents**
 - 📚 Exploring advanced topics in zero-knowledge, rollups, and Web3 protocols
 - 🤝 Open to collabs, product partnerships, and good vibes
@@ -26,9 +26,10 @@
 ## 🌍 Connect With Me
 
 - 📧 Email: [davidhorjet@gmail.com](mailto:davidhorjet@gmail.com)  
-- 🌐 Portfolio: [horjet.com](https://horjet.com)  
+- 🌐 Portfolio: [horjet.com](https://www.horjet.com)  
 - 🐦 Twitter: [@david_horjet](https://x.com/david_horjet)  
 - 📱 Phone: [+2349134219219](tel:+2349134219219)
+- 📱 Whatsapp: [+2349035305278](tel:+2349035305278)
 
 ---
 
