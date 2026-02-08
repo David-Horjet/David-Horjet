@@ -12,28 +12,28 @@
 
 ---
 
-## 🚀 About Me
+## < About Me />
 
-- 👨🏾‍💻 Full Stack Developer (Next.js, Node.js, TypeScript)
-- ⚙️ Smart Contract Engineer (Solana + Rust via Anchor)
-- 💡 Building [Swiv](https://swiv.xyz) – A real-time perpetual DEX
-- 🛠 Currently building: **DeFi infrastructure**, **automated trading models**, and **AI agents**
-- 📚 Exploring advanced topics in zero-knowledge, rollups, and Web3 protocols
-- 🤝 Open to collabs, product partnerships, and good vibes
-
----
-
-## 🌍 Connect With Me
-
-- 📧 Email: [davidhorjet@gmail.com](mailto:davidhorjet@gmail.com)  
-- 🌐 Portfolio: [horjet.com](https://www.horjet.com)  
-- 🐦 Twitter: [@david_horjet](https://x.com/david_horjet)  
-- 📱 Phone: [+2349134219219](tel:+2349134219219)
-- 📱 Whatsapp: [+2349035305278](tel:+2349035305278)
+- => Full Stack Developer (Next.js, Node.js, TypeScript)
+- => Smart Contract Engineer (Solana + Rust via Anchor)
+- => Building [Swiv](https://swiv.xyz) – A real-time perpetual DEX
+- => Currently building: **DeFi infrastructure**, **automated trading models**, and **AI agents**
+- => Exploring advanced topics in zero-knowledge, rollups, and Web3 protocols
+- => Open to collabs, product partnerships, and good vibes
 
 ---
 
-## 🧰 Tech Stack
+## < Connect With Me />
+
+- => Email: [davidhorjet@gmail.com](mailto:davidhorjet@gmail.com)  
+- => Portfolio: [horjet.com](https://www.horjet.com)  
+- => Twitter: [@david_horjet](https://x.com/david_horjet)  
+- => Phone: [+2349134219219](tel:+2349134219219)
+- => Whatsapp: [+2349035305278](tel:+2349035305278)
+
+---
+
+## < Tech Stack />
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -43,35 +43,35 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## < GitHub Stats & Activity />
 
-### 🔥 Contribution Streak
+### => Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=David-Horjet&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
-### 🧠 Most Used Languages
+### => Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Horjet&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=8&bg_color=000000" width="400"/>
 
-### 🧩 Overall Stats
+### => Overall Stats
 ![David-Horjet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=David-Horjet&theme=tokyonight&show_icons=true&count_private=true)
 
 ---
 
-## 🏆 GitHub Trophies
+## < GitHub Trophies />
 ![Trophies](https://github-profile-trophy.vercel.app/?username=David-Horjet&theme=gruvbox)
 
 ---
 
-## 📈 Activity Graph
+## < Activity Graph />
 [![David's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=David-Horjet&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🔮 Dev Quote
+## < Dev Quote />
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 🤣 Just for Fun
+## < Just for Fun />
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 
 ---
